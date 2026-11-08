@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/soham-ghodake/"><img src="https://img.shields.io/badge/LinkedIn-Soham_Ghodake-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Location-Pune,_India-555?style=flat" alt="Pune, India"/>
-  <img src="https://img.shields.io/badge/Open_to-SDE_/_ML_internships-2ea44f?style=flat" alt="Open to internships / job"/>
+  <img src="https://img.shields.io/badge/Open_to-SDE_/_AI_internships_and_job-2ea44f?style=flat" alt="Open to internships / job"/>
 </p>
 
 ---
