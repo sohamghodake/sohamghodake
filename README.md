@@ -76,12 +76,14 @@ A local-first CLI that inspects an AI app's source code and real HTTP traffic to
 ---
 
 
+
 <p align="center">
   <i>
     Currently building FlightCheck and looking for internship / job opportunities — feel free to reach out on my
     <a href="https://www.linkedin.com/in/soham-ghodake/">LinkedIn</a>
-    or my email
-    <a href="mailto:sohamghodake2005@gmail.com">sohamghodake2005@gmail.com</a>
+    or my
+    <a href="mailto:sohamghodake2005@gmail.com">Email</a>
   </i>
 </p>
+
 
